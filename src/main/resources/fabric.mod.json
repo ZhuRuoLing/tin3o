@@ -20,7 +20,7 @@
     "tin3o.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.14.12",
+    "fabricloader": ">=0.14.9",
     "fabric": "*",
     "minecraft": ">=1.19"
   }
